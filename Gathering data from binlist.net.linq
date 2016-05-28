@@ -7,14 +7,7 @@
     <NoPluralization>true</NoPluralization>
     <NoCapitalization>true</NoCapitalization>
   </Connection>
-  <Reference>&lt;ProgramFilesX64&gt;\LINQPad\dll\microsoft.crm.sdk.proxy.dll</Reference>
-  <Reference>&lt;ProgramFilesX64&gt;\LINQPad\dll\microsoft.xrm.sdk.dll</Reference>
-  <Reference>&lt;ProgramFilesX64&gt;\LINQPad\dll\MscrmApiShell.dll</Reference>
-  <Reference>&lt;RuntimeDirectory&gt;\System.Data.DataSetExtensions.dll</Reference>
-  <Reference>&lt;RuntimeDirectory&gt;\System.Data.dll</Reference>
-  <Reference>&lt;RuntimeDirectory&gt;\System.Net.dll</Reference>
   <Reference>&lt;RuntimeDirectory&gt;\System.Runtime.Serialization.dll</Reference>
-  <Reference>&lt;RuntimeDirectory&gt;\System.ServiceModel.dll</Reference>
 </Query>
 
 /*
